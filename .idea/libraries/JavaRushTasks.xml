@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JavaRushTasks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/main_jar/JavaRushTasks.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
